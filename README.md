@@ -14,4 +14,6 @@
 
 - [Fullstack open 2020](https://fullstackopen.com/en/part0/general_info)
   - [Exercise submission link](https://studies.cs.helsinki.fi/stats/courses/fullstackopen)
-  
+
+## Days
+- [Day 0](daily_updates/day-0.md)
