@@ -17,3 +17,4 @@
 
 ## Days
 - [Day 0](daily_updates/day-0.md)
+- [Day 1](daily_updates/day-1.md)
