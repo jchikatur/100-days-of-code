@@ -19,4 +19,4 @@
 - [Day 0](daily_updates/day-0.md)
 - [Day 1](daily_updates/day-1.md)
 - [Day 2](daily_updates/day-2.md)
-- [Day 3](daily_updated/day-3.md)
+- [Day 3](daily_updates/day-3.md)
